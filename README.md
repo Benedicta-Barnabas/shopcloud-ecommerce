@@ -28,4 +28,5 @@ real world production environments used by companies today.
 🚧 Coming soon...
 
 ## Deliverables
-🚧 Coming soon...
+🌐 Frontend: `http://34.228.26.227:3000`
+🔌 Backend API: `http://34.227.111.86:5000/api/products`
